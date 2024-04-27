@@ -8,7 +8,7 @@ This project focuses on two task: (i) Named Entity Recognition (NER) sequence ta
 - To install pytorch, refer to https://pytorch.org/ for os-specific instructions
 
 ## Directory Structure
-
+```bash
 ├── README.md
 ├── Report.pdf
 └── notebooks
@@ -18,6 +18,7 @@ This project focuses on two task: (i) Named Entity Recognition (NER) sequence ta
         ├── test.csv
         └── train.csv
 
+```
 
 ## Part I: Sequence Tagging: NER
 Part I of this project, which is focused on Sequence Tagging for NER, can be found in the notebook located at `./notebooks/Question1.ipynb`.
